@@ -1,0 +1,49 @@
+{
+"projects":[
+		{
+			"id": 0, 
+			"project_name": "Random Quote Generator", 
+			"description": 2, 
+			"technologies": "JavaScript, HTML, CSS", 
+			"live_link": 1, 
+			"github_link": "https://github.com/aaronbyrd86/random-quotes", 
+			"image_urls": 5
+		},
+		{
+			"id": 1, 
+			"project_name": "Pagination", 
+			"description": 2, 
+			"technologies": "JavaScript, HTML, CSS", 
+			"live_link": 1, 
+			"github_link": "https://github.com/aaronbyrd86/techdegree-project2", 
+			"image_urls": 5
+		},
+		{
+			"id": 2, 
+			"project_name": "Form Validator", 
+			"description": 2, 
+			"technologies": "JavaScript, HTML, CSS", 
+			"live_link": 1, 
+			"github_link": "https://github.com/aaronbyrd86/project3", 
+			"image_urls": 5
+		},
+		{
+			"id": 3, 
+			"project_name": "Word guessing game", 
+			"description": 2, 
+			"technologies": "JavaScript, HTML, CSS", 
+			"live_link": 1, 
+			"github_link": "https://github.com/aaronbyrd86/techdegree-project4", 
+			"image_urls": 5
+		},
+		{
+			"id": 4, 
+			"project_name": "Random quote Generator", 
+			"description": 2, 
+			"technologies": "JavaScript, HTML, CSS, AJAX", 
+			"live_link": 1, 
+			"github_link": "https://github.com/aaronbyrd86/techdegree-project5", 
+			"image_urls": 5
+		}
+]
+}
